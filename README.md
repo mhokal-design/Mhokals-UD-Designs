@@ -1,1 +1,1 @@
-UDSpark is a PCB based on the Digispark USB. It's been developed and designed as an educational tool for the University of Dubai by Mohammed Hukal and Abdulla Al Mazroui with direct supervision of Eng. Haitham Abu Damis.
+UDSpark is a PCB based on the Digispark USB. It's been developed and designed as an educational tool for the University of Dubai by Mohammed Hasan Hukal with direct supervision of Eng. Haitham Abu Damis.
